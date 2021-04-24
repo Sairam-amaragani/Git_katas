@@ -1,4 +1,5 @@
-merge conflict resolved using merge tool
+<<<<<<< HEAD
 file modified in master
+=======
 file modified in mergesort-impl branch
-
+>>>>>>> Mergesort-Impl
