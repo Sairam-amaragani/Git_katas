@@ -1,1 +1,4 @@
+resolving merge conflict
 Hi this is master in  branch
+Hi this is merge_conflict_branch
+
