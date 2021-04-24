@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+merge conflict resolved using merge tool
 file modified in master
-=======
 file modified in mergesort-impl branch
->>>>>>> Mergesort-Impl
+
+=======
+file created in master
+>>>>>>> parent of 76e266b... file6 modified in master
